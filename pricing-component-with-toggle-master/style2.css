@@ -190,7 +190,16 @@ body {
     flex-direction: row;
     justify-content: center;
     gap: 0;
+    margin: 40px;
     
+  }
+
+  .section {
+    margin: 42px;
+  }
+
+  .middle {
+    transform: scale(1.1);
   }
 
   
